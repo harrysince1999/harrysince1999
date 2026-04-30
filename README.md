@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harikesh Mohan Yadav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Spring+Boot+Developer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Spring+Boot+Developer;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
@@ -73,13 +73,6 @@
 
 ---
 
-## 🧩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harrysince1999&theme=tokyo-night" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
