@@ -1,6 +1,6 @@
-# Hi, I'm Harikesh Mohan Yadav 👋
+# Hi 👋, I'm Harikesh Mohan Yadav
 
-💻 Backend Engineer @ Texas Instruments
+💻 Software Engineer @ Texas Instruments
 🚀 Building scalable systems & automation tools
 📍 India
 
@@ -9,25 +9,25 @@
 ## 🧠 About Me
 
 * Backend-focused Full Stack Developer
-* Working on enterprise workflow automation systems
-* Strong in system design, APIs, and database handling
-* Interested in AI/ML & Data Science
+* Working on enterprise workflow automation
+* Strong in Java, Spring Boot, SQL
+* Exploring AI/ML & Data Science
 
 ---
 
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
-**Backend:**
-Java, Spring Boot
+🚀 **Backend**
+Java | Spring Boot
 
-**Frontend:**
-React, MUI
+🎨 **Frontend**
+React | MUI
 
-**Database:**
-Oracle, SQL
+🗄 **Database**
+Oracle | SQL
 
-**Scripting & Tools:**
-Python, Git, REST APIs
+⚙️ **Tools & Scripting**
+Python | Git | REST APIs
 
 ---
 
@@ -35,32 +35,47 @@ Python, Git, REST APIs
 
 ### 🔹 Admin Rights Management System
 
-* Designed a multi-team approval workflow system
-* Automated admin rights provisioning using scripts
-* Integrated email notifications with retry/expiry logic
-* Built using Spring Boot + Oracle + React
+✔ Multi-team approval workflow
+✔ Email notifications with retry logic
+✔ Automated provisioning using scripts
+✔ Built with Spring Boot + Oracle + React
 
 ---
 
 ### 🔹 Samba Auto Share Provision
 
-* Automated file share creation for users
-* Reduced manual effort and improved consistency
+✔ Automated file share creation
+✔ Reduced manual effort
 
 ---
 
 ### 🔹 Automation Scripts (Python)
 
-* Scheduled scripts for processing system requests
-* Integrated with backend workflows
+✔ Scheduled background processing
+✔ Integrated with backend systems
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrysince1999\&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harrysince1999&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrysince1999&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrysince1999\&layout=compact)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harrysince1999&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+![snake gif](https://github.com/harrysince1999/harrysince1999/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -71,10 +86,10 @@ Python, Git, REST APIs
 
 ---
 
-## ⚡ What I Focus On
+## 💡 What I Focus On
 
 * Building real-world backend systems
-* Writing clean, maintainable code
+* Writing clean & maintainable code
 * Solving practical engineering problems
 
 ---
